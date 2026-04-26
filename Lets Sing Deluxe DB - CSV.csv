@@ -1,0 +1,573 @@
+id,artist,title,gender,language,year,timeless,genre,theme,difficulty,coopfriendly,bpm,cover
+"MrRockNRoll,Amy MacDonald,Mr. Rock and Roll,Both,,2007,,Rock,""Love, Deep, Party"",VeryEasy,Coop,,669274"
+"Think,Aretha Franklin,Think,Both,,1968,,Pop,""Love, Deep, Party"",VeryEasy,,,102210"
+"WhatTheHell,Avril Lavigne,What The Hell,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,88170452"
+"Grenade,Bruno Mars,Grenade,Both,,2010,,Pop,""Love, Deep, Party"",VeryEasy,,,739505"
+"TheLazySong,Bruno Mars,The Lazy Song,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,739505"
+"LeFreak,Chic,Le Freak,Both,,1978,,Pop,""Love, Deep, Party"",VeryEasy,,,7079268"
+"Bubbly,Colbie Caillat,Bubbly,Both,,2007,,Pop,""Love, Deep, Party"",VeryEasy,,,117359"
+"Mercy,Duffy,Mercy,Both,,2008,,Pop,""Love, Deep, Party"",VeryEasy,,,254149"
+"TheFinalCountdown,Europe,The Final Countdown,Both,,1986,,Rock,""Love, Deep, Party"",VeryEasy,,,97615"
+"ChangedTheWayYouKissedMe,Example,Changed the Way You Kiss Me,Both,,2011,,Electro,""Love, Deep, Party"",VeryEasy,,,571446761"
+"LikeAG6,Far East Movement ft. The Cataracs & Dev,Like a G6,Both,,2010,,Electro,""Love, Deep, Party"",VeryEasy,,,662289"
+"RightRound,Flo Rida ft. Ke$ha,Right Round,Both,,2009,,Pop,""Love, Deep, Party"",VeryEasy,,,387876"
+WeAreYoung,Fun ft. Janelle Monáe,We Are Young,Men,English,2011,,Pop,Party,Hard,Coop,92,1543242
+"SweetAboutMe,Gabriella Cilmi,Sweet About Me,Both,,2008,,Pop,""Love, Deep, Party"",VeryEasy,,,100400"
+"NotOverYou,Gavin DeGraw,Not Over You,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1100680"
+"HereComesTheHotstepper,Ini Kamoze,Here Comes the Hotstepper,Both,,1994,,HipHop,""Love, Deep, Party"",VeryEasy,,,1211447"
+"BrokenStrings,James Morrison ft. Nelly Furtado,Broken Strings,Both,,2008,,Pop,""Love, Deep, Party"",VeryEasy,,,229099"
+"Celebration,Kool & The Gang,Celebration,Both,,1980,,Pop,""Love, Deep, Party"",VeryEasy,,,9751930"
+"InForTheKill,La Roux,In for the Kill,Both,,2009,,Electro,""Love, Deep, Party"",VeryEasy,,,371822"
+"BornThisWay,Lady Gaga,Born This Way,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1075407"
+"JustDance,Lady Gaga ft. Colby O'Donis,Just Dance,Both,,2008,,Electro,""Love, Deep, Party"",VeryEasy,,,433789"
+"VideoGames,Lana Del Rey,Video Games,Both,,2011,,Ballad,""Love, Deep, Party"",VeryEasy,,,1424452"
+PartyRockAnthem,LMFAO ft. Lauren Bennett & GoonRock,Party Rock Anthem,Men,English,2011,,Electro,Party,Hard,Coop,130,1152698
+"Euphoria,Loreen,Euphoria,Both,,2012,,Electro,""Love, Deep, Party"",VeryEasy,,,6600790"
+"MovesLikeJagger,Maroon 5 ft. Christina Aguilera,Moves Like Jagger,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1167403"
+"CantBeTamed,Miley Cyrus,Can't Be Tamed,Both,,2010,,Pop,""Love, Deep, Party"",VeryEasy,,,593484"
+PartyInTheUSA,Miley Cyrus,Party in the USA,Women,,2009,,Pop,Party,Easy,Coop,,394156
+"DontUpsetTheRhythm,Noisettes,Don't Upset the Rhythm,Both,,2009,,Pop,""Love, Deep, Party"",VeryEasy,,,296661"
+"CrazyLittleThingCalledLove,Queen,Crazy Little Thing Called Love,Both,,1980,,Rock,""Love, Deep, Party"",Medium,,,1121182"
+"UnderPressure,Queen & David Bowie,Under Pressure,Both,,1982,,Rock,""Love, Deep, Party"",Medium,,,1127912"
+"WhatAWonderfulWorld,Sam Cooke,(What A) Wonderful World,Both,,1960,,Pop,""Love, Deep, Party"",VeryEasy,,,1249008"
+"SheDoesntMind,Sean Paul,She Doesn't Mind,Both,,2011,,HipHop,""Love, Deep, Party"",VeryEasy,,,1494589"
+"TwoPrinces,Spin Doctors,Two Princes,Both,,1991,,Rock,""Love, Deep, Party"",VeryEasy,,,96039"
+"ComeOnGirl,Taio Cruz ft. Luciana,Come On Girl,Both,,2008,,Pop,""Love, Deep, Party"",VeryEasy,,,650663"
+"DontCha,The Pussycat Dolls ft. Busta Rhymes,Don't Cha,Both,,2005,,Pop,""Love, Deep, Party"",VeryEasy,,,124322"
+"SympathyForTheDevil,The Rolling Stones,Sympathy for the Devil,Both,,1968,,Rock,""Love, Deep, Party"",VeryEasy,,,912322"
+"AllFiredUp,The Saturdays,All Fired Up,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1331236"
+"JustCantGetEnough,The Saturdays,Just Can't Get Enough,Both,,2009,,Pop,""Love, Deep, Party"",VeryEasy,,,284636"
+"DriveBy,Train,Drive By,Both,,2012,,Pop,""Love, Deep, Party"",VeryEasy,,,1678770"
+"BuddyHolly,Weezer,Buddy Holly,Both,,1994,,Rock,""Love, Deep, Party"",VeryEasy,,,249099"
+TakeOnMe,A-ha,Take On Me,Men,English,1984,Timeless,Pop,Party,Medium,Coop,169,80521
+"NeverEver,All Saints,Never Ever,Both,,1997,,Pop,""Love, Deep, Party"",Easy,,,84657"
+"1Thing,Amerie,1 Thing,Both,,2005,,Pop,""Love, Deep, Party"",VeryEasy,,,68099192"
+HeartOfGlass,Blondie,Heart Of Glass,Women,English,1979,,Pop,Love,VeryEasy,,115,301232
+"LockedOutOfHeaven,Bruno Mars,Locked Out of Heaven,Both,,2012,,Pop,""Love, Deep, Party"",VeryEasy,,,6157080"
+"WhenIWasYourMan,Bruno Mars,When I Was Your Man,Both,,2013,,Ballad,""Love, Deep, Party"",VeryEasy,,,6157080"
+"CallMeMaybe,Carly Rae Jepsen,Call Me Maybe,Women,English,2011,,Pop,""Party, Love"",Medium,Coop,120,1673192"
+"DoYouReallyWantToHurtMe,Culture Club,Do You Really Want To Hurt Me,Men,English,1982,,Pop,""Deep, Love"",VeryEasy,Coop,100,303135"
+"ComeOnEileen,Dexy's Midnight Runners,Come On Eileen,Both,,1982,,Rock,""Love, Deep, Party"",Easy,,,396029"
+"Lights,Ellie Goulding,Lights,Both,,2010,,Electro,""Love, Deep, Party"",VeryEasy,,,707980"
+"MyLovin,En Vogue,My Lovin' (You're Never Gonna Get It),Both,,1992,,Pop,""Love, Deep, Party"",VeryEasy,,,90712"
+"ShakeItOut,Florence + The Machine,Shake It Out,Both,,2011,,Rock,""Love, Deep, Party"",VeryEasy,,,4502741"
+"TheSweetEscape,Gwen Stefani ft. Akon,The Sweet Escape,Both,,2006,,Pop,""Love, Deep, Party"",VeryEasy,,,161519"
+"Radioactive,Imagine Dragons,Radioactive,Both,,2012,,Rock,""Love, Deep, Party"",VeryEasy,,,6240279"
+"Impossible,James Arthur,Impossible,Both,,2012,,Ballad,""Love, Deep, Party"",VeryEasy,,,6170857"
+"Up,James Morrison ft. Jessie J,Up,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1194860"
+"Domino,Jessie J,Domino,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1321226"
+"DieYoung,Ke$ha,Die Young,Both,,2012,,Pop,""Love, Deep, Party"",VeryEasy,,,5954548"
+"IShouldBeSoLucky,Kylie Minogue,I Should Be So Lucky,Both,,1987,,Pop,""Love, Deep, Party"",VeryEasy,,,300587"
+"Bulletproof,La Roux,Bulletproof,Both,,2009,,Electro,""Love, Deep, Party"",VeryEasy,,,371822"
+"TheEdgeOfGlory,Lady Gaga,The Edge of Glory,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1075407"
+AllNightLong,Lionel Richie,All Night Long,Men,English,1983,,Pop,Party,Easy,Coop,109,103599
+"IFollowRivers,Lykke Li,I Follow Rivers,Women,English,2011,,Pop,""Love, Deep"",VeryEasy,,122,1306557"
+"OneMoreNight,Maroon 5,One More Night,Both,,2012,,Pop,""Love, Deep, Party"",VeryEasy,,,4361011"
+"Hello,Martin Solveig ft. Dragonette,Hello,Both,,2010,,Electro,""Love, Deep, Party"",VeryEasy,,,1345364"
+"Mirrors,Natalia Kills,Mirrors,Both,,2010,,Electro,""Love, Deep, Party"",VeryEasy,,,1242096"
+"SayItRight,Nelly Furtado,Say It Right,Both,,2006,,Pop,""Love, Deep, Party"",VeryEasy,,,123339"
+"Troublemaker,Olly Murs ft. Flo Rida,Troublemaker,Both,,2012,,Pop,""Love, Deep, Party"",VeryEasy,,,156970252"
+"Apologize,OneRepublic ft. Timbaland,Apologize,Men,English,2007,,Pop,""Love, Deep"",Medium,,118,103293"
+Fireflies,Owl City,Fireflies,Men,English,2009,,Pop,Deep,Hard,Coop,90,390346
+"HeyThereDelilah,Plain White T's,Hey There Delilah,Both,,2006,,Ballad,""Love, Deep, Party"",VeryEasy,,,140119072"
+"ILikeToMoveIt,Reel 2 Real,I Like to Move It,Both,,1993,,Electro,""Love, Deep, Party"",VeryEasy,,,891183372"
+"GetBusy,Sean Paul,Get Busy,Both,,2003,,HipHop,""Love, Deep, Party"",VeryEasy,,,41925041"
+"Boombastic,Shaggy,Boombastic,Both,,1995,,Electro,""Love, Deep, Party"",Easy,,,213082"
+DontYou,Simple Minds,Don't You (Forget About Me),Men,English,1985,,Rock,Love,Easy,,111,303668
+"EternalFlame,The Bangles,Eternal Flame,Both,,1988,,Ballad,""Love, Deep, Party"",VeryEasy,,,294524"
+"HeavyCross,The Gossip,Heavy Cross,Both,,2009,,Rock,""Love, Deep, Party"",VeryEasy,,,296358"
+"WrittenInTheStars,Tinie Tempah,Written in the Stars,Both,,2010,,HipHop,""Love, Deep, Party"",VeryEasy,,,639268"
+"DJGotUsFallingInLove,Usher ft. Pitbull,DJ Got Us Falling in Love,Both,,2010,,Electro,""Love, Deep, Party"",VeryEasy,,,1441334"
+"YMCA,Village People,Y.M.C.A.,Both,,1978,,Pop,""Love, Deep, Party"",VeryEasy,,,660235"
+WakeMeUp,Avicii,Wake Me Up,Men,English,2013,,Electro,Party,VeryHard,,124,6893935
+Pompeii,Bastille,Pompeii,Men,English,2013,,Pop,Party,Medium,Coop,127,6189193
+"JustTheWayYouAre,Bruno Mars,Just the Way You Are,Both,,2010,,Pop,""Love, Deep, Party"",VeryEasy,,,739505"
+"RatherBe,Clean Bandit,Rather Be,Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,7298238"
+"Magic,Coldplay,Magic,Both,,2014,,Rock,""Love, Deep, Party"",VeryEasy,,,7500276"
+"LetItGo,Demi Lovato,Let It Go,Both,,2013,,Pop,""Love, Deep, Party"",VeryEasy,,,7058535"
+Burn,Ellie Goulding,Burn,Women,English,2013,,Pop,Party,Medium,Coop,87,6825395
+"Missing,Everything But The Girl,Missing (Todd Terry Club Mix),Both,,2017,,Electro,""Love, Deep, Party"",VeryEasy,,,326572907"
+"HowIFeel,Flo Rida,How I Feel,Both,,2013,,Pop,""Love, Deep, Party"",VeryEasy,,,7062054"
+"ILoveIt,Icona Pop,I Love It,Both,,2012,,Electro,""Love, Deep, Party"",VeryEasy,,,5293221"
+"Demons,Imagine Dragons,Demons,Both,,2012,,Rock,""Love, Deep, Party"",Medium,,,6240279"
+"BonfireHeart,James Blunt,Bonfire Heart,Both,,2013,,Ballad,""Love, Deep, Party"",VeryEasy,,,7014830"
+"LoveMeAgain,John Newman,Love Me Again,Both,,2013,,Pop,""Love, Deep, Party"",Easy,,,6597870"
+"CantGetYouOutOfMyHead,Kylie Minogue,Can't Get You Out of My Head,Both,,2001,,Electro,""Love, Deep, Party"",VeryEasy,,,299771"
+"LetMeDownGently,La Roux,Let Me Down Gently,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,8128990"
+"SummertimeSadness,Lana Del Rey,Summertime Sadness,Both,,2012,,Ballad,""Love, Deep, Party"",VeryEasy,,,1503218"
+"SomewhereOnlyWeKnow,Lily Allen,Somewhere Only We Know,Both,,2013,,Ballad,""Love, Deep, Party"",VeryEasy,,,7129396"
+Royals,Lorde,Royals,Women,English,2013,,Pop,Deep,Hard,Coop,85,6909237
+"FirstDayOfMyLife,Melanie C,First Day of My Life,Both,,2005,,Pop,""Love, Deep, Party"",VeryEasy,,,139746442"
+"Waves,Mr. Probz,Waves (Robin Schultz Radio Edit),Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,174320212"
+"CountingStars,OneRepublic,Counting Stars,Both,,2013,,Rock,""Love, Deep, Party"",Medium,,,7811259"
+"LoveRunsOut,OneRepublic,Love Runs Out,Both,,2014,,Rock,""Love, Deep, Party"",VeryEasy,,,7811259"
+"LetHerGo,Passenger,Let Her Go,Both,,2012,,Ballad,""Love, Deep, Party"",VeryEasy,,,81710372"
+"GoWest,Pet Shop Boys,Go West,Both,,1993,,Electro,""Love, Deep, Party"",VeryEasy,,,688033"
+"RadioGaGa,Queen,Radio Ga Ga,Both,,1984,,Rock,""Love, Deep, Party"",Hard,,,726319"
+"ComeAndGetIt,Selena Gomez,Come & Get It,Both,,2013,,Pop,""Love, Deep, Party"",VeryEasy,,,6495493"
+"RhythmIsADancer,Snap!,Rhythm Is a Dancer,Both,,1992,,Electro,""Love, Deep, Party"",VeryEasy,,,901406882"
+"True,Spandau Ballet,True,Both,,1983,,Ballad,""Love, Deep, Party"",VeryEasy,,,301784"
+"PushTheButton,Sugababes,Push the Button,Both,,2005,,Pop,""Love, Deep, Party"",VeryEasy,,,102940"
+"LoveShack,The B-52's,Love Shack,Both,,1989,,Rock,""Love, Deep, Party"",VeryEasy,,,366876"
+VideoKilledTheRadioStar,The Buggles,Video Killed The Radio Star,Men,English,1979,,Pop,Party,Easy,Coop,131,246560
+"ShouldIStayOrShouldIGo,The Clash,Should I Stay or Should I Go,Both,,1982,,Rock,""Love, Deep, Party"",VeryEasy,,,6861104"
+"InTheShadows,The Rasmus,In the Shadows,Both,,2003,,Rock,""Love, Deep, Party"",Medium,,,6070627"
+"InTheNavy,Village People,In the Navy,Both,,1979,,Pop,""Love, Deep, Party"",VeryEasy,,,660234"
+"SaturdayNight,Whigfield,Saturday Night,Both,,1994,,Electro,""Love, Deep, Party"",Easy,,,637836"
+"StayTheNight,Zedd,Stay the Night,Both,,2013,,Electro,""Love, Deep, Party"",VeryEasy,,,7972412"
+"Problem,Ariana Grande ft. Iggy Azalea,Problem,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,8436154"
+"TheNights,Avicii,The Nights,Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,9188269"
+"Outside,Calvin Harris ft. Ellie Goulding,Outside,Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,8990105"
+"BoomClap,Charli XCX,Boom Clap,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,9605886"
+"RealLove,Clean Bandit & Jess Glynne,Real Love,Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,8835373"
+"ASkyFullOfStars,Coldplay,A Sky Full of Stars,Both,,2014,,Rock,""Love, Deep, Party"",VeryEasy,,,7769437"
+"Ghost,Ella Henderson,Ghost,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,7801357"
+"Budapest,George Ezra,Budapest,Both,,2013,,Pop,""Love, Deep, Party"",VeryEasy,,,6991678"
+YoureBeautiful,James Blunt,You're Beautiful,Men,English,2005,,Ballad,Love,VeryHard,,82,257970
+"HoldMyHand,Jess Glynne,Hold My Hand,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,10990494"
+"BangBang,""Jessie J, Ariana Grande & Nicki Minaj"",Bang Bang,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,8173012"
+"AllOfMe,John Legend,All of Me,Both,,2013,,Ballad,""Love, Deep, Party"",VeryEasy,,,6872923"
+"Hideaway,Kiesza,Hideaway,Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,8006006"
+"Applause,Lady Gaga,Applause,Both,,2013,,Pop,""Love, Deep, Party"",VeryEasy,,,86712972"
+"BleedingLove,Leona Lewis,Bleeding Love,Both,,2007,,Ballad,""Love, Deep, Party"",VeryEasy,,,54590"
+"UptownFunk,Mark Ronson ft. Bruno Mars,Uptown Funk,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,9411436"
+"AllAboutThatBass,Meghan Trainor,All About That Bass,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,8513647"
+Maneater,Nelly Furtado,Maneater,Women,English,2006,,Pop,Party,Easy,Coop,133,123339
+"Up,Olly Murs ft. Demi Lovato,Up,Both,,2011,,Pop,""Love, Deep, Party"",VeryEasy,,,1194860"
+DontStopMeNow,Queen,Don't Stop Me Now,Men,English,1979,Timeless,Rock,Party,VeryHard,Coop,157,1121401
+"IWillNeverLetYouDown,Rita Ora,I Will Never Let You Down,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,547066582"
+ItMustHaveBeenLove,Roxette,It Must Have Been Love,Both,English,1987,,Pop,Love,Easy,Coop,81,299784
+"StayWithMe,Sam Smith,Stay With Me,Both,,2014,,Ballad,""Love, Deep, Party"",VeryEasy,,,11603598"
+"Chandelier,Sia,Chandelier,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,7927592"
+"Changing,Sigma feat. Paloma Faith,Changing,Both,,2014,,Electro,""Love, Deep, Party"",VeryEasy,,,8535793"
+"FridayImInLove,The Cure,Friday I'm In Love,Both,,1992,,Rock,""Love, Deep, Party"",VeryEasy,,,120750"
+"NoScrubs,TLC,No Scrubs,Both,,1999,,Pop,""Love, Deep, Party"",VeryEasy,,,116323"
+"SheLooksSoPerfect,5 Seconds of Summer,She Looks So Perfect,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,7989512"
+"WaitingForLove,Avicii,Waiting for Love,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,11192186"
+"SomethingINeed,Ben Haenow,Something I Need,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,9365814"
+"HowDeepIsYourLove,Calvin Harris,How Deep Is Your Love,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,10817804"
+"IReallyLikeYou,Carly Rae Jepsen,I Really Like You,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,835414752"
+"OneCallAway,Charlie Puth,One Call Away,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,12231484"
+"AdventureOfALifetime,Coldplay,Adventure of a Lifetime,Both,,2015,,Rock,""Love, Deep, Party"",VeryEasy,,,11580496"
+"LoveMeLikeYouDo,Ellie Goulding,Love Me Like You Do,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,11603406"
+"MeMyselfAndI,G-Easy feat. Bebe Rexha,""Me, Myself & I"",Both,,2015,,HipHop,""Love, Deep, Party"",VeryEasy,,,11848868"
+"WantToWantMe,Jason Derulo,Want to Want Me,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,10333912"
+"DontBeSoHardOnYourself,Jess Glynne,Don't Be So Hard on Yourself,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,10930032"
+"ComeAndGetIt,John Newman,Come and Get It,Both,,2013,,Pop,""Love, Deep, Party"",VeryEasy,,,6495493"
+"Sorry,Justin Bieber,Sorry,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,11674708"
+"SexyAndIKnowIt,LMFAO,Sexy and I Know It,Both,,2011,,Electro,""Love, Deep, Party"",VeryEasy,,,1152698"
+"LipsAreMovin,Meghan Trainor,Lips Are Movin,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,8916809"
+"NO,Meghan Trainor,No,Both,,2016,,Pop,""Love, Deep, Party"",VeryEasy,,,41265521"
+"Cheerleader,OMI,Cheerleader (Felix Jaehn Remix),Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,7766112"
+"Sugar,Robin Schulz ft. Francesco Yates,Sugar,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,11205348"
+"Glitterball,Sigma ft. Ella Henderson,Glitterball,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,10801878"
+"WhereAreUNow,Skrillex & Diplo feat. Justin Bieber,Where Are Ü Now,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,9760264"
+"Roses,The Chainsmokers feat. Rozes,Roses,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,10218722"
+"NotLettingGo,Tinie Tempah ft. Jess Glynne,Not Letting Go,Both,,2015,,HipHop,""Love, Deep, Party"",VeryEasy,,,10631672"
+StressedOut,Twenty One Pilots,Stressed Out,Both,,2015,,HipHop,Deep,Medium,,,10236282
+"ShutUpAndDance,Walk the Moon,Shut Up and Dance,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,9154869"
+"SeeYouAgain,Wiz Khalifa ft. Charlie Puth,See You Again,Both,,2015,,Ballad,""Love, Deep, Party"",VeryEasy,,,9746786"
+"King,Years & Years,King,Both,,2015,,Electro,""Love, Deep, Party"",VeryEasy,,,12548860"
+"LushLife,Zara Larsson,Lush Life,Both,,2015,,Pop,""Love, Deep, Party"",VeryEasy,,,15658900"
+"Pillowtalk,Zayn,Pillowtalk,Both,,2016,,Pop,""Love, Deep, Party"",VeryEasy,,,12281156"
+"Faded,Alan Walker,Faded,Women,English,2015,,Electro,""Deep, Love"",VeryEasy,,90,15103893"
+"MyWay,Calvin Harris,My Way,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,14056654"
+BreakTheRules,Charli XCX,Break The Rules,Women,English,2014,,Pop,Party,VeryEasy,,124,8427980
+"Attention,Charlie Puth,Attention,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,39839191"
+"Rockabye,Clean Bandit,Rockabye,Both,,2016,,HipHop,""Love, Deep, Party"",Medium,,,14344894"
+"HymnForTheWeekend,Coldplay,Hymn For The Weekend,Both,,2015,,Pop,""Love, Deep, Party"",Medium,,,11898198"
+"YouSpinMeRound,Dead Or Alive,You Spin Me Round (Like A Record),Both,,1985,,Pop,""Love, Deep, Party"",Medium,,,107577"
+"BeTheOne,Dua Lipa,Be The One,Both,,2017,,Pop,""Love, Deep, Party"",VeryEasy,,,11443400"
+"CoolKids,Echosmith,Cool Kids,Both,,2013,,Pop,""Love, Deep, Party"",Medium,,,6975073"
+"IHateUILoveU,Gnash,""I Hate U, I Love U"",Both,,2016,,HipHop,""Love, Deep, Party"",VeryEasy,,,12668142"
+"Trumpets,Jason Derulo,Trumpets,Both,,2014,,HipHop,""Love, Deep, Party"",VeryEasy,,,6920633"
+"Imagine,John Lennon,Imagine,Both,,1971,,Ballad,""Love, Deep, Party"",VeryEasy,,,664237"
+WayDownWeGo,KALEO,Way Down We Go,Men,English,2015,,Rock,Deep,Easy,,81,10926718
+"StoleTheShow,Kygo,Stole The Show,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,9854614"
+MillionReasons,Lady Gaga,Million Reasons,Women,English,2016,,Pop,Deep,Easy,Coop,65,14344820
+"AreYouWithMe,Lost Frequencies,Are You With Me,Both,,2014,,Pop,""Love, Deep, Party"",VeryEasy,,,8142034"
+"LostOnYou,LP,Lost On You,Both,,2016,,Ballad,""Love, Deep, Party"",Hard,,,901406442"
+7Years,Lukas Graham,7 Years,Men,English,2015,,Pop,Deep,Easy,,60,12665338
+"CantHoldUs,Macklemore E Ryan Lewis,Can't Hold Us,Both,,2012,,HipHop,""Love, Deep, Party"",Hard,,,6019334"
+"ThisLove,Maroon 5,This Love,Both,,2002,,Rock,""Love, Deep, Party"",Medium,,,124797"
+"AmIWrong,Nico E Vinz,Am I Wrong,Both,,2014,,HipHop,""Love, Deep, Party"",VeryEasy,,,7316575"
+"Crazy,Seal,Crazy,Both,,1991,,Ballad,""Love, Deep, Party"",Hard,,,81716"
+"Closer,The Chainsmokers,Closer,Both,,2016,,Pop,""Love, Deep, Party"",Hard,,,13680908"
+"ImGonnaBe500Miles,The Proclaimers,I'm Gonna Be (500 Miles),Both,,1988,,Rock,""Love, Deep, Party"",VeryEasy,,,300494"
+"MammaMia,ABBA,Mamma Mia,Both,,1975,,Rock,""Love, Deep, Party"",VeryEasy,,,100323"
+"HowFarIllGo,Auli'i Cravalho,How Far I'll Go,Both,,2016,,Ballad,""Love, Deep, Party"",Easy,,,14582000"
+"CruelSummer,Bananarama,Cruel Summer,Both,,1984,,Pop,""Love, Deep, Party"",Hard,,,50494722"
+"LivinOnAPrayer,Bon Jovi,Livin' on a prayer,Both,,1986,,Rock,""Love, Deep, Party"",Easy,,,70200002"
+24KMagic,Bruno Mars,24K Magic,Men,English,2016,Timeless,Pop,Party,Medium,Coop,107,14581500
+"Finesse,Bruno Mars,Finesse remix,Both,,2018,,HipHop,""Love, Deep, Party"",Hard,,,53983322"
+"Symphony,Clean Bandit,Symphony,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,15659400"
+"CakeByTheOcean,DNCE,Cake by the ocean,Both,,2015,,Pop,""Love, Deep, Party"",Medium,,,14582084"
+"NewRules,Dua Lipa,New Rules,Both,,2017,,Electro,""Love, Deep, Party"",VeryHard,,,42194891"
+"AintNobody,Felix Jaehn,Ain't nobody Loves me better,Both,,2015,,Electro,""Love, Deep, Party"",Easy,,,9761230"
+"ItAintMe,Kygo E Selena Gomez,It Ain't Me,Both,,2017,,Electro,""Love, Deep, Party"",Easy,,,15383513"
+"PerfectIllusion,Lady Gaga,Perfect Illusion,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,14344820"
+"GreenLight,Lorde,Green Light,Both,,2017,,Pop,""Love, Deep, Party"",VeryEasy,,,42886601"
+MamboNo5,Lou Bega,Mambo No.5,Men,English,1999,,Pop,Party,Easy,,174,52481862
+"ScaredToBeLonely,Martin Garrix E Dua Lipa,Scared to be lonely,Both,,2017,,Electro,""Love, Deep, Party"",Easy,,,15186629"
+"YouLetMeWalkAlone,Michael Schulte,You let me walk alone,Both,,2018,,Ballad,""Love, Deep, Party"",VeryEasy,,,59163642"
+"X,Nicky Jam E J Balvin,X,Both,,2018,,Electro,""Love, Deep, Party"",Medium,,,116943052"
+"DontSpeak,No Doubt,Don't speak,Both,,1996,,Rock,""Love, Deep, Party"",Easy,,,2317301"
+WhatsUp,4 Non Blondes,What's Up,Women,English,1992,,Rock,Deep,Medium,,67,218365
+FeelItStill,Portugal. The Man,Feel It Still,Men,English,2017,,Pop,Party,Easy,,158,42880391
+"Anywhere,Rita Ora,Anywhere,Both,,2017,,Pop,""Love, Deep, Party"",VeryEasy,,,49721102"
+"TheresNothingHoldinMeBack,Shawn Mendes,There's nothing holdin' me back,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,40146561"
+"AllIWannaDo,Sheryl Crow,All I wanna do,Both,,1994,,Pop,""Love, Deep, Party"",Hard,,,103812"
+"CallOnMe,Starley,Call on me,Both,,2016,,Electro,""Love, Deep, Party"",Medium,,,604167532"
+"TheMiddle,Zedd,The Middle,Both,,2018,,Pop,""Love, Deep, Party"",Medium,,,55259802"
+"NoRoots,Alice Merton,No Roots,Both,,2016,,Rock,""Love, Deep, Party"",Easy,,,15089535"
+SweetButPsycho,Ava Max,Sweet But Psycho,Women,English,2018,,Pop,Love,VeryHard,Coop,133,70366152
+YouGiveLoveABadName,Bon Jovi,You Give Love A Bad Name,Men,English,1986,,Rock,Love,VeryEasy,Coop,123,77211342
+"ThatsWhatILike,Bruno Mars,That's What I Like,Both,,2017,,Pop,""Love, Deep, Party"",Hard,,,14581500"
+"OneKiss,Calvin Harris E Dua Lipa,One Kiss,Both,,2017,,Electro,""Love, Deep, Party"",Medium,,,60712222"
+BeAlright,Dean Lewis,Be Alright,Men,English,2018,,Pop,Love,Easy,,64,66647762
+"Shotgun,George Ezra,Shotgun,Both,,2018,,Pop,""Love, Deep, Party"",Easy,,,58954392"
+"Natural,Imagine Dragons,Natural,Both,,2018,,Rock,""Love, Deep, Party"",VeryHard,,,77648602"
+"SayYouWontLetGo,James Arthur,Say You Won't Let Go,Both,,2016,,Ballad,""Love, Deep, Party"",Hard,,,13994984"
+"Mama,Jonas Blue,Mama,Both,,2017,,Pop,""Love, Deep, Party"",Hard,,,40801701"
+"Rise,Jonas Blue,Rise,Both,,2018,,Pop,""Love, Deep, Party"",Hard,,,64092172"
+"ThisGirl,Kungs,This Girl,Both,,2016,,Electro,""Love, Deep, Party"",VeryHard,,,14459240"
+"SomeoneYouLoved,Lewis Capaldi,Someone You Loved,Men,English,2019,,Ballad,""Love, Deep"",Easy,,110,78031872"
+"Numb,Linkin Park,Numb,Both,,2003,,Rock,""Love, Deep, Party"",Medium,,,81847"
+LoveSomeone,Lukas Graham,Love Someone,Men,English,2018,,Ballad,Love,Easy,,86,72286752
+DontCallMeUp,Mabel,Don't Call Me Up,Women,English,2019,,Pop,Party,Easy,,99,84226812
+"Friends,Marshmello E Anne-Marie,FRIENDS,Both,,2018,,Pop,""Love, Deep, Party"",Medium,,,714618351"
+"Katchi,Ofenbach vs. Nick Waterhouse,Katchi,Both,,2017,,Pop,""Love, Deep, Party"",Easy,,,46387252"
+"LetYouLoveMe,Rita Ora,Let You Love Me,Both,,2018,,Pop,""Love, Deep, Party"",Hard,,,73444962"
+"Angels,Robbie Williams,Angels,Both,,1997,,Ballad,""Love, Deep, Party"",Medium,,,302349"
+"Speechless,Robin Schulz,Speechless,Both,,2018,,Electro,""Love, Deep, Party"",Medium,,,78629232"
+"TheseDays,Rudimental,These days,Both,,2018,,Pop,""Love, Deep, Party"",Medium,,,54654682"
+"NoLie,Sean Paul,No Lie,Both,,2017,,Pop,""Love, Deep, Party"",VeryHard,,,14582062"
+"Wolves,Selena Gomez x Marshmello,Wolves,Both,,2017,,Electro,""Love, Deep, Party"",Medium,,,50319082"
+"Stitches,Shawn Mendes,Stitches,Both,,2015,,Pop,""Love, Deep, Party"",Medium,,,11748100"
+"Wannabe,Spice Girls,Wannabe,Both,,1996,,Pop,""Love, Deep, Party"",Hard,,,302002"
+LeaveALightOn,Tom Walker,Leave a Light On,Men,English,2017,,Pop,Deep,Easy,,69,48890472
+"ThankUNext,Ariana Grande,""Thank U, Next"",Both,,2018,,Pop,""Love, Deep, Party"",Hard,,,86773062"
+SoAmI,Ava Max,So Am I,Women,English,2019,,Pop,Party,Medium,Coop,130,89263772
+BadGuy,Billie Eilish,bad guy,Women,English,2019,,Pop,Deep,Medium,Coop,135,91598612
+"Blame,Calvin Harris,Blame,Both,,2014,,Electro,""Love, Deep, Party"",Easy,,,8391458"
+"DontStartNow,Dua Lipa,Don't Start Now,Both,,2020,,Electro,""Love, Deep, Party"",Medium,,,117053822"
+"ICantDance,Genesis,I Can't Dance,Both,,1991,,Rock,""Love, Deep, Party"",Easy,,,1347734"
+Thunder,Imagine Dragons,Thunder,Men,English,2017,,Pop,Party,VeryHard,Coop,84,68346981
+HoldBackTheRiver,James Bay,Hold Back The River,Men,English,2014,,Pop,Love,Easy,Coop,135,9097101
+"Sucker,Jonas Brothers,Sucker,Both,,2019,,Rock,""Love, Deep, Party"",Medium,,,99438162"
+"Yummy,Justin Bieber,Yummy,Both,,2020,,HipHop,""Love, Deep, Party"",Hard,,,125128132"
+"ChainedToTheRhythm,Katy Perry,Chained To The Rhythm,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,65278322"
+"YouKeepMeHanginOn,Kim Wilde,You Keep Me Hangin' On,Both,,1986,,Pop,""Love, Deep, Party"",Easy,,,6936055"
+"BlackHorseAndTheCherryTree,KT Tunstall,Black Horse And The Cherry Tree,Both,,2004,,Rock,""Love, Deep, Party"",Medium,,,301173"
+"BeforeYouGo,Lewis Capaldi,Before You Go,Both,,2019,,Ballad,""Love, Deep, Party"",Hard,,,119043862"
+"ForYou,Liam Payne E Rita Ora,For You,Both,,2018,,Pop,""Love, Deep, Party"",Medium,,,140571342"
+"SomewhereIBelong,Linkin Park,Somewhere I Belong,Both,,2003,,Rock,""Love, Deep, Party"",Hard,,,81847"
+GoodAsHell,Lizzo,Good As Hell,Women,English,2016,,Pop,Love,Medium,Coop,96,127779952
+"LeanOn,Major Lazer x DJ Snake,Lean On,Both,,2015,,Electro,""Love, Deep, Party"",Medium,,,11794498"
+"Memories,Maroon 5,Memories,Both,,2019,,Ballad,""Love, Deep, Party"",Hard,,,236529752"
+Happier,Marshmello,Happier,Men,English,2018,,Electro,Deep,Easy,Coop,100,484483015
+"SomeSay,Nea,Some Say,Both,,2019,,Pop,""Love, Deep, Party"",Medium,,,114114252"
+HighHopes,Panic! At The Disco,High Hopes,Men,English,2017,,Pop,Party,Hard,Coop,82,66313782
+"TooGoodAtGoodbyes,Sam Smith,Too Good At Goodbyes,Both,,2017,,Ballad,""Love, Deep, Party"",Medium,,,50607242"
+KissFromARose,Seal,Kiss From A Rose,Men,English,1994,,Pop,Love,Medium,Coop,132,431501
+"LoseYouToLoveMe,Selena Gomez,Lose You To Love Me,Both,,2019,,Ballad,""Love, Deep, Party"",Medium,,,125608742"
+"IfICantHaveYou,Shawn Mendes,If I Can't Have You,Both,,2019,,Pop,""Love, Deep, Party"",Medium,,,95100972"
+"IJustCantWaitToBeKing,The Lion King,I Just Can't Wait To Be King,Both,,1994,,Ballad,""Love, Deep, Party"",Easy,,,487940"
+"HoHey,The Lumineers,Ho Hey,Both,,2012,,Ballad,""Love, Deep, Party"",Medium,,,111543132"
+DanceMonkey,TONES AND I,Dance Monkey,Women,English,2019,,Pop,Party,VeryEasy,,98,108770322
+"Falling,Trevor Daniel,Falling,Both,,2018,,HipHop,""Love, Deep, Party"",Medium,,,241350872"
+BackToBlack,Amy Winehouse,Back To Black,Women,English,2006,,Pop,Deep,Easy,Coop,124,217795
+"KingsQueens,Ava Max,Kings & Queens,Both,,2020,,Pop,""Love, Deep, Party"",Hard,,,135440642"
+"Everybody,Backstreet Boys,Everybody (Backstreet’s Back),Both,,1997,,Pop,""Love, Deep, Party"",Medium,,,1442196"
+EverythingIWanted,Billie Eilish,Everything I Wanted,Women,English,2019,,Pop,Deep,Easy,Coop,120,118529282
+"Giant,Calvin Harris feat. Rag’n’Bone Man,Giant,Both,,2019,,Electro,""Love, Deep, Party"",Medium,,,83805552"
+"AshesToAshes,David Bowie,Ashes to Ashes,Both,,1980,,Rock,""Love, Deep, Party"",Hard,,,56889622"
+"LetsLove,David Guetta & Sia,Let’s Love,Both,,2020,,Electro,""Love, Deep, Party"",Easy,,,171745682"
+"BadLiar,Imagine Dragons,Bad Liar,Both,,2018,,Rock,""Love, Deep, Party"",Medium,,,77648602"
+"YouDontKnowMe,Jax Jones feat. RAYE,You Don’t Know Me,Both,,2016,,Electro,""Love, Deep, Party"",Hard,,,14781371"
+"HeadHeart,Joel Corry x MNEK,Head & Heart,Both,,2020,,Electro,""Love, Deep, Party"",Medium,,,157795452"
+"StupidLove,Lady Gaga,Stupid Love,Both,,2020,,Pop,""Love, Deep, Party"",VeryHard,,,151092632"
+"DontWorry,Madcon feat. Ray Dalton,Don’t Worry,Both,,2020,,Pop,""Love, Deep, Party"",Medium,,,9884332"
+"Jerusalema,Master KG feat. Nomcebo,Jerusalema,Both,,2019,,Electro,""Love, Deep, Party"",Medium,,,159529882"
+"Wellerman,Nathan Evans,Wellerman (Sea Shanty),Both,,2021,,Pop,""Love, Deep, Party"",Hard,,,201834742"
+"HeadShouldersKneesToes,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees & Toes,Both,,2020,,Electro,""Love, Deep, Party"",Hard,,,146399782"
+"Human,Rag’n’Bone Man,Human,Both,,2016,,Ballad,""Love, Deep, Party"",Medium,,,15188215"
+PrettyFly,The Offspring,Pretty Fly (For A White Guy),Men,English,1998,,Rock,Party,Easy,Coop,143,14717564
+"BreakingMe,Topic & A7S,Breaking Me,Men,English,2019,,Pop,""Party, Love"",Easy,,122,122983832"
+"LastChristmas,Wham!,Last Christmas,Both,,1984,,Pop,""Love, Deep, Party"",Medium,,,113443"
+"Control,Zoe Wees,Control,Both,,2020,,Ballad,""Love, Deep, Party"",Easy,,,135340802"
+"AWholeNewWorld,Aladdin,A Whole New World,Both,,1992,,Ballad,""Love, Deep, Party"",Hard,,,12626032"
+"Positions,Ariana Grande,positions,Both,,2020,,Pop,""Love, Deep, Party"",VeryHard,,,183019972"
+"LeaveTheDoorOpen,""Bruno Mars, Anderson .Paak, Silk Sonic"",Leave The Door Open,Men,English,2021,,Ballad,Love,Hard,Coop,74,298400782"
+"Butterfly,Crazy Town,Butterfly,Both,,2000,,Rock,""Love, Deep, Party"",Medium,,,1206154"
+"EnjoyTheSilence,Depeche Mode,Enjoy The Silence,Both,,1990,,Ballad,""Love, Deep, Party"",Easy,,,6709163"
+"SavageLove,Jason Derulo & Jawsh 685,Savage Love (Laxed - Siren Beat),Both,,2020,,Pop,""Love, Deep, Party"",VeryHard,,,153680822"
+"WhatAboutUs,P!nk,What About Us,Both,,2017,,Pop,""Love, Deep, Party"",Hard,,,45943192"
+"Monster,""Shawn Mendes, Justin Bieber"",Monster,Both,,2020,,Pop,""Love, Deep, Party"",Hard,,,187735922"
+Snowman,Sia,Snowman,Women,English,2020,,Pop,Party,Medium,,70,50980792
+SevenNationArmy,The White Stripes,Seven Nation Army,Men,English,2003,Timeless,Rock,Party,Easy,,124,188663612
+"Complicated,Avril Lavigne,Complicated,Both,,2002,,Rock,""Love, Deep, Party"",Hard,,,1440870"
+"StandByMe,Ben E. King,Stand by Me,Both,,1961,,Ballad,""Love, Deep, Party"",VeryEasy,,,14632126"
+"HappierThanEver,Billie Eilish,Happier Than Ever,Both,,2021,,Rock,""Love, Deep, Party"",Easy,,,248216622"
+"Butter,BTS,Butter,Both,,2021,,Pop,""Love, Deep, Party"",Medium,,,277545462"
+"HowLong,Charlie Puth,How Long,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,49252312"
+"2U,David Guetta ft. Justin Bieber,2U,Both,,2017,,Electro,""Love, Deep, Party"",Medium,,,42589701"
+"BadHabits,Ed Sheeran,Bad Habits,Both,,2021,,Pop,""Love, Deep, Party"",Easy,,,238407992"
+BlueDaBaDee,Eiffel 65,Blue (Da Ba Dee),Men,English,1998,,Electro,Party,VeryEasy,,128,9076739
+HeatWaves,Glass Animals,Heat Waves,Men,English,2020,,Electro,Deep,VeryEasy,,81,164586122
+"SomebodyThatIUsedToKnow,Gotye ft. Kimbra,Somebody That I Used to Know,Both,,2011,,Pop,""Love, Deep, Party"",Easy,,,1382596"
+"Acapulco,Jason Derulo,Acapulco,Both,,2021,,Pop,""Love, Deep, Party"",Hard,,,254203522"
+"OldTownRoad,Lil Nas X feat. Billy Ray Cyrus,Old Town Road (Remix),Both,,2019,,HipHop,""Love, Deep, Party"",Hard,,,100896762"
+"GetThePartyStarted,P!nk,Get the Party Started,Both,,2001,,Pop,""Love, Deep, Party"",Easy,,,91632082"
+"DeathBed,Powfu ft. Beabadoobee,death bed (Coffee for Your Head),Both,,2020,,HipHop,""Love, Deep, Party"",VeryEasy,,,130595652"
+"IWantToBreakFree,Queen,I Want To Break Free,Both,,1984,,Rock,""Love, Deep, Party"",Medium,,,726319"
+"YourSong,Rita Ora,Your Song,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,42143441"
+"Friday,Riton X Nightcrawlers ft. Mufasa & Hypeman,Friday,Both,,2021,,Electro,""Love, Deep, Party"",VeryHard,,,193464972"
+"LoveTonight,Shouse,Love Tonight,Both,,2017,,Electro,""Love, Deep, Party"",VeryEasy,,,52583212"
+"YouBrokeMeFirst,Tate McRae,you broke me first,Both,,2020,,Pop,""Love, Deep, Party"",VeryEasy,,,141630082"
+"WithoutYou,The Kid LAROI,WITHOUT YOU,Both,,2020,,Ballad,""Love, Deep, Party"",VeryEasy,,,247297962"
+"YourLove,ATB x Topic x A7S,Your Love (9PM),Both,,2021,,Electro,""Love, Deep, Party"",VeryEasy,,,198276362"
+"KungFuFighting,Carl Douglas,Kung Fu Fighting,Both,,1974,,Pop,""Love, Deep, Party"",Medium,,,61653462"
+"Solo,Clean Bandit ft. Demi Lovato,Solo,Both,,2018,,Electro,""Love, Deep, Party"",Hard,,,63148482"
+"MyUniverse,Coldplay x BTS,My Universe,Both,,2021,,Pop,""Love, Deep, Party"",Medium,,,259988612"
+"WeDontTalkAboutBruno,Disney's Encanto,We don't talk about Bruno,Both,,2021,,Pop,""Love, Deep, Party"",Hard,,,272207802"
+"NeverGoingHome,Kungs,Never Going Home,Both,,2021,,Electro,""Love, Deep, Party"",VeryEasy,,,230124382"
+"Shallow,Lady Gaga & Bradley Cooper,Shallow,Both,,2018,,Ballad,""Love, Deep, Party"",VeryEasy,,,74434962"
+PieceOfYourHeart,Meduza ft. Goodboys,Piece Of Your Heart,Men,English,2019,,Electro,Love,Medium,,124,98917002
+DragosteaDinTei,O-Zone,Dragostea Din Tei,Men,Other,2003,,Electro,Party,Hard,Coop,130,269643742
+"WastedLove,Ofenbach ft. Lagique,Wasted Love,Both,,2021,,Electro,""Love, Deep, Party"",Easy,,,197488142"
+"TheSign,Ace of Base,The Sign,Both,,1993,,Pop,""Love, Deep, Party"",VeryHard,,,9535320"
+"MillionDollarBaby,Ava Max,Million Dollar Baby,Both,,2022,,Pop,""Love, Deep, Party"",VeryHard,,,350460017"
+"YourPower,Billie Eilish,Your Power,Both,,2021,,Pop,""Love, Deep, Party"",Medium,,,248216622"
+"Dynamite,BTS,Dynamite,Both,,2020,,HipHop,""Love, Deep, Party"",Hard,,,275045842"
+"LifeOnMars,David Bowie,Life On Mars?,Both,,1971,,Rock,""Love, Deep, Party"",Easy,,,303415"
+"MerryChristmas,Ed Sheeran & Elton John,Merry Christmas,Both,,2021,,Pop,""Love, Deep, Party"",Easy,,,275797882"
+"Abc,GAYLE,abc (nicer),Both,,2022,,Pop,""Love, Deep, Party"",Medium,,,275008112"
+"Bones,Imagine Dragons,Bones,Both,,2022,,Pop,""Love, Deep, Party"",Medium,,,302204417"
+GoldenHour,JVKE,Golden Hour,Men,English,2022,,Ballad,Love,Easy,,94,353172167
+"StrongerWhatDoesntKillYou,Kelly Clarkson,Stronger (What Doesn't Kill You),Both,,2012,,Pop,""Love, Deep, Party"",Medium,,,1307135"
+"HoldMyHand,Lady Gaga,Hold My Hand,Both,,2022,,Pop,""Love, Deep, Party"",Easy,,,10990494"
+"WhereAreYouNow,Lost Frequencies ft. Calum Scott,Where Are You Now,Both,,2021,,Electro,""Love, Deep, Party"",Medium,,,244103182"
+"Thunderclouds,""LSD (Labrinth, Sia & Diplo)"",Thunderclouds,Both,,2018,,Pop,""Love, Deep, Party"",Medium,,,70269102"
+"LeaveBeforeYouLoveMe,Marshmello & Jonas Brothers,Leave Before You Love Me,Both,,2021,,Pop,""Love, Deep, Party"",Hard,,,231761642"
+"AnotherOneBitesTheDust,Queen,Another One Bites The Dust,Both,,1980,,Rock,""Love, Deep, Party"",Medium,,,1121182"
+"Snap,Rosa Linn,SNAP,Both,,2022,,Ballad,""Love, Deep, Party"",Medium,,,586548092"
+"Trampoline,SHAED,Trampoline,Both,,2018,,Pop,""Love, Deep, Party"",Hard,,,753618451"
+"WhenYoureGone,Shawn Mendes,When You're Gone,Both,,2022,,Pop,""Love, Deep, Party"",Medium,,,307290107"
+"AnotherLove,Tom Odell,Another Love,Both,,2012,,Ballad,""Love, Deep, Party"",VeryEasy,,,6443018"
+CiaoAdios,Anne-Marie,Ciao Adios,Women,,2017,,Pop,Love,VeryHard,Coop,,15319245
+OurSong,Anne-Marie & Niall Horan,Our Song,Both,,2021,,Pop,Love,Easy,Coop,,227042902
+RockAndAHardPlace,Bailey Zimmerman,Rock And A Hard Place,Men,,2022,,Ballad,Love,Hard,Coop,,322347097
+HeartWantsWhatItWants,Bebe Rexha,Heart Wants What It Wants,Women,,2023,,Pop,Love,Medium,Coop,,426775917
+CrazyWhatLoveCanDo,David Guetta & Becky Hill & Ella Henderson,Crazy What Love Can Do,Women,,2022,,Electro,Party,Hard,Coop,,302805217
+EyesClosed,Ed Sheeran,Eyes Closed,Men,,2023,,Pop,Love,Medium,,,418720487
+Everywhere,Fleetwood Mac,Everywhere,Women,,1987,Timeless,Rock,Love,Hard,Coop,,80548
+Lost,Linkin Park,Lost,Men,,2023,,Rock,Deep,Easy,Coop,,401413077
+AboutDamnTime,Lizzo,About Damn Time,Women,,2022,,Pop,Party,Easy,Coop,,334190677
+TheKindOfLoveWeMake,Luke Combs,The Kind Of Love We Make,Men,,2022,,Rock,Love,Medium,,,326212507
+MadeYouLookAgain,Meghan Trainor,Made You Look (Again),Women,,2022,,Pop,Party,Hard,Coop,,366439167
+WreckingBall,Miley Cyrus,Wrecking Ball,Women,,2013,,Pop,Party,Easy,Coop,,6983510
+NeverGonnaNotDanceAgain,P!nk,Never Gonna Not Dance Again,Women,,2022,,Pop,Party,VeryHard,Coop,,371500807
+ColorsOfTheWind,Pocahontas,Colors Of The Wind,Women,,1995,Timeless,Ballad,Deep,Medium,,,301056
+"queenofkings,Alessandra,Queen of Kings,Both,,2023,,Pop,""Love, Deep, Party"",VeryEasy,,,392660267"
+"YesAnd,Ariana Grande,""yes, and?"",Both,,2024,,Pop,Party,Easy,,,532976152"
+"remember,""Becky Hill, David Guetta"",Remember,Both,,2021,,Electro,""Love, Deep, Party"",VeryEasy,,,236715052"
+"eastside,""Benny Blanco, Halsey & Khalid"",Eastside,Both,,2018,,Pop,""Love, Deep, Party"",VeryEasy,,,67820782"
+BeautifulThings,Benson Boone,Beautiful Things,Both,,2024,,Rock,Deep,Hard,,,551471602
+WhatWasIMadeFor,Billie Eilish,What Was I Made For?,Both,,2023,,Ballad,Deep,Easy,,,463935645
+"youarethereason,Calum Scott,You Are The Reason,Both,,2017,,Ballad,""Love, Deep, Party"",VeryEasy,,,58136872"
+"desire,""Calvin Harris, Sam Smith"",Desire,Both,,2023,,Electro,""Love, Deep, Party"",VeryEasy,,,461534045"
+EverytimeWeTouch,Cascada,Everytime We Touch,Both,,2005,,Electro,Party,Easy,,,7976692
+"goodones,Charli XCX,Good Ones,Both,,2021,,Electro,""Love, Deep, Party"",VeryEasy,,,302039587"
+TheATeam,Ed Sheeran,The A Team,Both,,2011,,Ballad,Deep,Medium,,,1126065
+Cupid,FIFTY FIFTY,Cupid,Both,,2023,,Pop,Party,Easy,,,628234701
+DogDaysAreOver,Florence + The Machine,Dog Days Are Over,Both,,2008,,Rock,Party,Hard,,,697730
+"wafflehouse,Jonas Brothers,Waffle House,Both,,2023,,Pop,""Love, Deep, Party"",VeryEasy,,,424037327"
+StandingNextToYou,Jung Kook,Standing Next to You,Both,,2023,,Pop,Love,Hard,,,507407161
+LoveYourself,Justin Bieber,Love Yourself,Men,,2015,,Ballad,Deep,Medium,Coop,,11674708
+Strangers,Kenya Grace,Strangers,Both,,2023,,Electro,Deep,Hard,,,480655305
+"yousay,Lauren Daigle,You Say,Both,,2018,,Ballad,""Love, Deep, Party"",VeryEasy,,,83580292"
+ForgetMe,Lewis Capaldi,Forget Me,Both,,2022,,Pop,Love,Easy,,,352670597
+IfWeEverBrokeUp,Mae Stephens,If We Ever Broke Up,Women,,2023,,Pop,Love,Easy,,,403545977
+"youproof,Morgan Wallen,You Proof,Both,,2022,,Pop,""Love, Deep, Party"",VeryEasy,,,767042911"
+Uprising,Muse,Uprising,Both,,2009,,Rock,Deep,VeryEasy,,,390984
+Good4U,Olivia Rodrigo,good 4 u,Women,,2022,,Rock,Deep,Medium,Coop,,231552772
+"evergreen,Omar Apollo,Evergreen (You Didn't Deserve Me At All),Both,,2022,,Ballad,""Love, Deep, Party"",VeryEasy,,,304121887"
+IAintWorried,OneRepublic,I Ain't Worried,Both,,2022,,Pop,Party,Medium,,,318263717
+ItGoesLikeNanana,Peggy Gou,(It Goes Like) Nanana,Both,,2023,,Electro,Party,VeryEasy,,,445536515
+"gimmelove,Sia,Gimme Love,Both,,2023,,Pop,""Love, Deep, Party"",VeryEasy,,,477119765"
+LoseControl,Teddy Swims,Lose Control,Men,,2023,,Ballad,Love,VeryHard,Coop,,450730965
+"hakunamatata,The Lion King,Hakuna Matata,Both,,1994,,Pop,""Love, Deep, Party"",VeryEasy,,,487940"
+DancingInTheMoonlight,Toploader,Dancing in the Moonlight,Men,,2000,Timeless,Pop,Party,Easy,,,954304
+"thisyear,Victor Thompson x Ehis 'D' Greatest,This Year (Blessings),Both,,2023,,Pop,""Love, Deep, Party"",VeryEasy,,,401435087"
+ForeverYoung,Alphaville,Forever Young,Both,,1984,,Pop,Deep,Easy,,,83855
+Runaway,AURORA,Runaway,Both,,2015,,Pop,Deep,Hard,,,12599720
+Supalonely,BENEE ft. Gus Dapperton,Supalonely,Women,English,2019,,Pop,Party,Medium,Coop,,118373072
+SlowItDown,Benson Boone,Slow It Down,Both,,2024,,Pop,Love,Hard,,,557965782
+BirdsOfAFeather,Billie Eilish,BIRDS OF A FEATHER,Both,,2024,,Pop,Love,Easy,,,586786102
+HotToGo,Chappell Roan,HOT TO GO!,Both,,2023,,Pop,Party,VeryEasy,,,488063815
+AllMyLove,Coldplay,ALL MY LOVE,Men,English,2024,,Ballad,Love,VeryEasy,,,650278821
+HereWithMe,d4vd,Here With Me,Men,English,2022,,Ballad,Love,Easy,,,828353961
+Austin,Dasha,Austin,Both,,2024,,Pop,Deep,Easy,,,563390222
+IDontWannaWait,David Guetta & OneRepublic,I Don't Wanna Wait,Both,,2024,,Electro,Party,Easy,,,563137892
+2Step,Ed Sheeran feat. Lil Baby,2step,Both,,2022,,Pop,Deep,VeryHard,,,309508887
+StealTheShow,Elemental,Steal The Show,Men,English,2023,,Pop,Love,Medium,,,455474845
+"ILoveYouImSorry,Gracie Abrams,""I Love You, I’m Sorry"",Both,,2024,,Ballad,Love,Easy,,,603616662"
+Sharks,Imagine Dragons,Sharks,Both,,2022,,Rock,Deep,Easy,,,330027197
+WishYouTheBest,Lewis Capaldi,Wish You The Best,Men,English,2023,,Ballad,Love,VeryEasy,Coop,,426826187
+TheEmptinessMachine,Linkin Park,The Emptiness Machine,Both,English,2024,,Rock,Deep,Easy,Coop,,638194471
+"2BeLoved,Lizzo,2 Be Loved (Am I Ready),Women,English,2022,,Pop,""Love, Party"",Hard,Coop,,334190677"
+Messy,Lola Young,Messy,Both,,2024,,Pop,Deep,Hard,,,591239352
+MadLove,Mabel,Mad Love,Women,English,2019,,Pop,Love,Medium,Coop,,111485452
+BelongTogether,Mark Ambor,Belong Together,Men,English,2024,,Pop,Love,Medium,Coop,,552043852
+MyLoveMineAllMine,Mitski,My Love Mine All Mine,Both,,2023,,Ballad,Love,Easy,,,463824335
+YoureWelcome,Moana,You're Welcome,Men,English,2016,,Pop,Party,Medium,Coop,,14582002
+TurnOffTheLight,Nelly Furtado,Turn Off The Light,Women,English,2001,,Pop,Deep,VeryHard,Coop,,697807
+Heaven,Niall Horan,Heaven,Men,English,2023,,Pop,Deep,Medium,Coop,,413551327
+Starships,Nicki Minaj,Starships,Both,,2012,,Pop,Party,Medium,,,2732901
+StickSeason,Noah Kahan,Stick Season,Men,English,2022,,Pop,Deep,Easy,,,448625925
+Feel,Robbie Williams,Feel,Both,,2002,,Pop,Love,Easy,,,299778
+"SingleSoon,Selena Gomez,Single Soon,Both,,2023,,Pop,""Love, Party"",Medium,,,479494735"
+GoodNews,Shaboozey,Good News,Men,English,2024,,Pop,Deep,Hard,,,660170121
+SoakUpTheSun,Sheryl Crow,Soak Up The Sun,Women,English,2002,,Pop,Party,VeryEasy,Coop,,103245
+EnglishmanInNewYork,Sting,Englishman In New York,Both,,1987,,Pop,Deep,Easy,,,247629
+"BadDreams,Teddy Swims,Bad Dreams,Both,,2024,,Ballad,""Love, Deep"",Hard,,,636498021"
+"IfWeEverMeetAgain,""Timbaland, Katy Perry"",If We Ever Meet Again,Both,,2010,,Pop,Party,Hard,,,443911"
+"BangABoomerang,ABBA,Bang-A-Boomerang,Both,,1975,,Pop,""Love, Deep, Party"",Medium,,,119899"
+"Chiquitita,ABBA,Chiquitita,Both,,1979,,Ballad,""Love, Deep, Party"",VeryEasy,,,7573078"
+DancingQueen,ABBA,Dancing Queen,Women,English,1976,Timeless,Pop,Party,Medium,Coop,100,100323
+"DoesYourMotherKnow,ABBA,Does Your Mother Know,Both,,1979,,Pop,""Love, Deep, Party"",Medium,,,100323"
+"Eagle,ABBA,Eagle,Both,,1977,,Rock,""Love, Deep, Party"",VeryEasy,,,7573078"
+"Fernando,ABBA,Fernando,Both,,1976,,Pop,""Love, Deep, Party"",VeryEasy,,,7573078"
+"GimmeGimmeGimme,ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),Both,,1979,,Pop,""Love, Deep, Party"",Medium,,,100323"
+"HappyNewYear,ABBA,Happy New Year,Both,,1980,,Ballad,""Love, Deep, Party"",Easy,,,245956"
+"HeadOverHeels,ABBA,Head Over Heels,Both,,1982,,Pop,""Love, Deep, Party"",Hard,,,7573078"
+"IDoIDoIDoIDoIDo,ABBA,""I Do, I Do, I Do, I Do, I Do"",Both,,1975,,Pop,""Love, Deep, Party"",Hard,,,7573078"
+"KnowingMeKnowingYou,ABBA,""Knowing Me, Knowing You"",Both,,1977,,Ballad,""Love, Deep, Party"",Easy,,,100323"
+"MoneyMoneyMoney,ABBA,""Money, Money, Money"",Both,,1976,,Pop,""Love, Deep, Party"",Medium,,,100323"
+"OnAndOnAndOn,ABBA,On And On And On,Both,,1980,,Pop,""Love, Deep, Party"",Hard,,,7573078"
+"OneManOneWoman,ABBA,""One Man, One Woman"",Both,,1977,,Pop,""Love, Deep, Party"",Medium,,,126543"
+"OneOfUs,ABBA,One Of Us,Both,,1981,,Ballad,""Love, Deep, Party"",Easy,,,7573078"
+"RingRing,ABBA,Ring Ring,Both,,1973,,Pop,""Love, Deep, Party"",VeryHard,,,7573078"
+"SOS,ABBA,SOS,Both,,1975,,Pop,""Love, Deep, Party"",VeryEasy,,,100323"
+"SummerNightCity,ABBA,Summer Night City,Both,,1978,,Pop,""Love, Deep, Party"",VeryHard,,,7573078"
+"SuperTrouper,ABBA,Super Trouper,Both,,1980,,Pop,""Love, Deep, Party"",Medium,,,100323"
+"TakeAChanceOnMe,ABBA,Take A Chance on Me,Both,,1978,,Pop,""Love, Deep, Party"",Hard,,,100323"
+"ThankYouForTheMusic,ABBA,Thank You For The Music,Both,,1977,,Ballad,""Love, Deep, Party"",Medium,,,100323"
+"ThatsMe,ABBA,That’s Me,Both,,1976,,Pop,""Love, Deep, Party"",VeryHard,,,7573078"
+"TheDayBeforeYouCame,ABBA,The Day Before You Came,Both,,1982,,Ballad,""Love, Deep, Party"",Hard,,,7573078"
+"TheNameOfTheGame,ABBA,The Name of The Game,Both,,1977,,Pop,""Love, Deep, Party"",Medium,,,100323"
+"TheWinnerTakesItAll,ABBA,The Winner Takes It All,Both,,1980,,Ballad,""Love, Deep, Party"",Easy,,,100323"
+"UnderAttack,ABBA,Under Attack,Both,,1982,,Pop,""Love, Deep, Party"",Hard,,,7573078"
+"VoulezVous,ABBA,Voulez-Vous,Both,,1979,,Pop,""Love, Deep, Party"",Easy,,,100323"
+"Waterloo,ABBA,Waterloo,Both,,1974,,Pop,""Love, Deep, Party"",Easy,,,7573078"
+"WhenAllIsSaidAndDone,ABBA,When All Is Said And Done,Both,,1981,,Ballad,""Love, Deep, Party"",Easy,,,247657"
+"Sacrifice,Elton John,Sacrifice,Both,,1989,,Ballad,""Love, Deep, Party"",VeryEasy,,,4397541"
+"TaintedLove,Soft Cell,Tainted Love,Both,,1981,,Pop,""Love, Deep, Party"",Easy,,,548582682"
+"EverybodyWantsToRuleTheWorld,Tears for Fears,Everybody Wants To Rule The World,Both,,1985,,Rock,""Love, Deep, Party"",Easy,,,728880031"
+"TotalEclipseOfTheHeart,Bonnie Tyler,Total Eclipse Of The Heart,Both,,1983,,Rock,""Love, Deep, Party"",Medium,,,137770592"
+"DontLeaveMeThisWay,Communards,Don't Leave Me This Way,Both,,1986,,Pop,""Love, Deep, Party"",Hard,,,51634172"
+KidsInAmerica,Kim Wilde,Kids In America,Women,English,1981,,Rock,Party,Easy,,161,615956922
+"WakeMeUpBeforeYouGoGo,Wham!,Wake Me Up Before You Go-Go,Both,,1984,,Pop,""Love, Deep, Party"",Hard,,,1399876"
+"TheTideIsHigh,Blondie,The Tide Is High,Both,,1980,,Pop,""Love, Deep, Party"",Medium,,,304164"
+"WhenWillIBeFamous,Bros,When Will I Be Famous,Both,,1988,,Pop,""Love, Deep, Party"",Hard,,,77763"
+Gold,Spandau Ballet,Gold,Men,English,1983,,Pop,Party,VeryEasy,Coop,143,301784
+TheOnlyWayIsUp,Yazz,The Only Way Is Up,Women,English,1988,,Pop,Party,VeryHard,Coop,124,15579102
+"Ironic,Alanis Morissette,Ironic,Both,,1996,,Rock,""Love, Deep, Party"",Medium,,,92314"
+BarbieGirl,Aqua,Barbie Girl,Both,English,1997,Timeless,Pop,Party,VeryHard,Coop,130,120044
+"NothingCompares2U,Sinéad O'Connor,Nothing Compares 2 U,Women,English,1990,,Ballad,""Love, Deep"",Medium,Coop,60,326545317"
+"TheRhythmOfTheNight,Corona,Rhythm of the Night,Both,,1995,,Electro,""Love, Deep, Party"",VeryHard,,,772215971"
+"FreedFromDesire,Gala,Freed from Desire,Both,,1997,,Electro,""Love, Deep, Party"",Hard,,,637847"
+"CottonEyeJoe,Rednex,Cotton Eye Joe,Both,,1995,,Pop,""Love, Deep, Party"",Medium,,,50131842"
+PumpUpTheJam,Technotronic,Pump Up The Jam,Women,English,1989,,Electro,Party,VeryEasy,,125,287867
+"Lovefool,The Cardigans,Lovefool,Both,,1996,,Pop,""Love, Deep, Party"",Easy,,,102639"
+"MMMBop,Hanson,MmmmBop,Both,,1997,,Pop,""Love, Deep, Party"",Easy,,,8962501"
+HowBizarre,OMC,How Bizarre,Both,English,1995,,Pop,Party,VeryEasy,Coop,125,91211172
+"WindOfChange,Scorpions,Wind of Change,Both,,1990,,Rock,""Love, Deep, Party"",Easy,,,104459"
+"AllStar,Smash Mouth,All Star,Both,,1999,,Rock,""Love, Deep, Party"",Easy,,,103376"
+"Tears,Clean Bandit,Tears,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,13204732"
+"NoMoney,Galantis,No Money,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,12649778"
+PerfectStrangers,Jonas Blue Feat. JP Cooper,Perfect Strangers,Men,English,2016,,Electro,Love,Medium,Coop,118,132007312
+"Reality,Lost Frequencies feat. Janieck Devy,Reality,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,44164091"
+"SweetLovin,Sigala,Sweet Lovin,Both,,2014,,Pop,""Love, Deep, Party"",Medium,,,11675210"
+"ChristmasLights,Coldplay,Christmas lights,Both,,2010,,Ballad,""Love, Deep, Party"",Easy,,,725326"
+"LoneliestTimeOfYear,Mabel,Loneliest Time Of Year,Both,,2019,,Pop,""Love, Deep, Party"",Easy,,,119389532"
+"ThankGodItsChristmas,Queen,Thank God It's Christmas,Both,,1984,,Ballad,""Love, Deep, Party"",Easy,,,725251"
+"SomethinStupid,Robbie Wiliams feat. Nicole Kidman,Something Stupid,Both,,2001,,Ballad,""Love, Deep, Party"",Easy,,,299889"
+"MerryChristmasEveryone,Shakin' Stevens,Merry Christmas Everyone,Both,,1985,,Ballad,""Love, Deep, Party"",Easy,,,184338402"
+"WhiteWedding,Billy Idol,White Wedding,Both,,1982,,Rock,""Love, Deep, Party"",Medium,,,40714531"
+"IJustDiedInYourArms,Cutting Crew,I Just Died in Your Arms,Both,,1986,,Rock,""Love, Deep, Party"",Medium,,,303129"
+"IFoughtTheLaw,The Clash,I fought the Law,Both,,1977,,Rock,""Love, Deep, Party"",Easy,,,6812630"
+"MySharona,The Knack,My Sharona,Both,,1979,,Rock,""Love, Deep, Party"",Medium,,,309820"
+"MeantToBe,Bebe Rexha ft. Florida Georgia Line,Meant to Be,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,45854242"
+"BuyMeABoat,Chris Janson,Buy Me a Boat,Both,,2015,,Pop,""Love, Deep, Party"",Hard,,,10171974"
+"Fix,Chris Lane,Fix,Both,,2015,,Pop,""Love, Deep, Party"",VeryHard,,,603098102"
+"OnMyWayToYou,Cody Johnson,On My Way to You,Both,,2018,,Ballad,""Love, Deep, Party"",Medium,,,84415672"
+"YouShouldBeHere,Cole Swindell,You Should Be Here,Both,,2015,,Ballad,""Love, Deep, Party"",Easy,,,926313501"
+"AwfulBeautifulLife,Darryl Worley,""Awful, Beautiful Life"",Both,,2004,,Pop,""Love, Deep, Party"",Hard,,,676923"
+"AllOnMe,Devin Dawson,All on Me,Both,,2017,,Pop,""Love, Deep, Party"",Hard,,,15384471"
+"BurningMan,Dierks Bentley ft. Brothers Osborne,Burning Man,Both,,2018,,Rock,""Love, Deep, Party"",VeryEasy,,,65025132"
+"SmallTownBoy,Dustin Lynch,Small Town Boy,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,902134292"
+"StreetsOfBakersfield,Dwight Yoakam & Buck Owens,Streets of Bakersfield,Both,,1988,,Pop,""Love, Deep, Party"",VeryEasy,,,513137"
+"MyGirl,Dylan Scott,My Girl,Both,,2016,,Pop,""Love, Deep, Party"",Easy,,,13103000"
+"RoundHereBuzz,Eric Church,Round Here Buzz,Both,,2015,,Pop,""Love, Deep, Party"",Medium,,,11650078"
+"TheChair,George Strait,The Chair,Both,,1985,,Ballad,""Love, Deep, Party"",VeryEasy,,,100908"
+"RhinestoneCowboy,Glen Campbell,Rhinestone Cowboy,Both,,1975,,Pop,""Love, Deep, Party"",VeryEasy,,,329487"
+"BackroadSong,Granger Smith,Backroad Song,Both,,2015,,Pop,""Love, Deep, Party"",Hard,,,644266861"
+"DownToTheHonkytonk,Jake Owen,Down to the Honkytonk,Both,,2018,,Pop,""Love, Deep, Party"",Medium,,,603095002"
+"BestShot,Jimmie Allen,Best Shot,Both,,2018,,Pop,""Love, Deep, Party"",Hard,,,868241362"
+"SunnyAnd75,Joe Nichols,Sunny and 75,Both,,2013,,Pop,""Love, Deep, Party"",Hard,,,892809742"
+"DirtOnMyBoots,Jon Pardi,Dirt on My Boots,Both,,2016,,Rock,""Love, Deep, Party"",Hard,,,13366923"
+"SinglesYouUp,Jordan Davis,Singles You Up,Both,,2017,,Pop,""Love, Deep, Party"",Medium,,,41809381"
+"FollowYourArrow,Kacey Musgraves,Follow Your Arrow,Both,,2013,,Pop,""Love, Deep, Party"",Easy,,,6398248"
+"PeterPan,Kelsea Ballerini,Peter Pan,Both,,2015,,Ballad,""Love, Deep, Party"",Medium,,,10085098"
+"TheGambler,Kenny Rogers,The Gambler,Both,,1978,,Pop,""Love, Deep, Party"",Easy,,,300453"
+"JustAKiss,Lady Antebellum,Just A Kiss,Both,,2011,,Ballad,""Love, Deep, Party"",Easy,,,604552222"
+"RoadLessTraveled,Lauren Alaina,Road Less Traveled,Both,,2016,,Pop,""Love, Deep, Party"",Medium,,,343944637"
+"ILoveThisLife,LoCash,I Love This Life,Both,,2015,,Pop,""Love, Deep, Party"",Hard,,,458706265"
+"ThinkALittleLess,Michael Ray,Think a Little Less,Both,,2015,,Pop,""Love, Deep, Party"",Easy,,,9213673"
+"TheseDays,Rascal Flatts,These Days,Both,,2002,,Pop,""Love, Deep, Party"",Hard,,,296623"
+"TakeYourTime,Sam Hunt,Take Your Time,Both,,2014,,Pop,""Love, Deep, Party"",Easy,,,8880061"
+"IWannaTalkAboutMe,Toby Keith,I Wanna Talk About Me,Both,,2001,,Pop,""Love, Deep, Party"",VeryHard,,,100093"
+"LoveYouLikeThat,Canaan Smith,Love You Like That,Both,,2015,,Pop,""Love, Deep, Party"",Medium,,,10613902"
+"IHopeYouDance,Lee Ann Womack,I Hope you Dance,Both,,2000,,Ballad,""Love, Deep, Party"",Easy,,,228332"
+"IDriveYourTruck,Lee Brice,I Drive Your Truck,Both,,2012,,Ballad,""Love, Deep, Party"",Medium,,,7505739"
+"InHellIllBeInGoodCompany,The Dead South,In Hell I’ll Be in Good Company,Both,,2014,,Ballad,""Love, Deep, Party"",Easy,,,64253202"
+"WhenICallYourName,Vince Gill,When I Call Your Name,Both,,1989,,Ballad,""Love, Deep, Party"",Medium,,,118156"
+IWillSurvive,Gloria Gaynor,I Will Survive,Women,English,1978,Timeless,Pop,Party,VeryEasy,,116,108644
+"BadRomance,Lady Gaga,Bad Romance,Women,English,2009,,Pop,""Party, Love"",Medium,Coop,119,107877682"
+"TheFear,Lilly Allen,The Fear,Both,,2009,,Pop,""Love, Deep, Party"",Easy,,,425238"
+"BoysDontCry,The Cure,Boys Don't Cry,Both,,1980,,Rock,""Love, Deep, Party"",Medium,,,122552"
+"AThousandMiles,Vanessa Carlton,A Thousand Miles,Both,,2001,,Ballad,""Love, Deep, Party"",Medium,,,109423"
+"WalkingOnSunshine,Katrina & The Waves,Walking On Sunshine,Both,,1983,,Pop,""Love, Deep, Party"",Easy,,,304138"
+"UCantTouchThis,MC Hammer,U Can't Touch This,Both,,1990,,HipHop,""Love, Deep, Party"",Easy,,,302178"
+"NeverGonnaGiveYouUp,Rick Astley,Never Gonna Give You Up,Both,,1987,,Pop,""Love, Deep, Party"",Easy,,,901415162"
+"UpsideDown,Diana Ross,Upside Down,Both,,1980,,Pop,""Love, Deep, Party"",Easy,,,430643"
+"OurHouse,Madness,Our House,Both,,1982,,Pop,""Love, Deep, Party"",Easy,,,664372011"
+"FallingInLoveWithYou,UB40,(I Can't Help) Falling In Love With You,Both,,1993,,Ballad,""Love, Deep, Party"",Easy,,,301763"
+"BlueMonday,New Order,Blue Monday,Both,,1988,,Pop,""Love, Deep, Party"",Easy,,,84572"
+"WeWillRockYou,Queen,We will Rock You,Both,,1977,,Rock,""Love, Deep, Party"",Easy,,,1121181"
+"MadWorld,Tears for Fears,Mad World,Both,,1983,,Ballad,""Love, Deep, Party"",Medium,,,117810"
+"AKindOfMagic,Queen,A Kind of Magic,Both,,1986,,Rock,""Love, Deep, Party"",Medium,,,726319"
+"BicycleRace,Queen,Bicycle Race,Both,,1978,,Rock,""Love, Deep, Party"",Hard,,,6605779"
+"BohemianRhapsody,Queen,Bohemian Rhapsody,Both,,1975,,Rock,""Love, Deep, Party"",Hard,,,915785"
+"Breakthru,Queen,Breakthru,Both,,1989,,Rock,""Love, Deep, Party"",Medium,,,726319"
+"FatBottomedGirls,Queen,Fat Bottomed Girls,Both,,1978,,Rock,""Love, Deep, Party"",Medium,,,6605779"
+"GoodOldFashionedLoverBoy,Queen,Good Old Fashioned Lover Boy,Both,,1976,,Rock,""Love, Deep, Party"",Medium,,,1132644"
+"Headlong,Queen,Headlong,Both,,1991,,Rock,""Love, Deep, Party"",Medium,,,726319"
+"IWantItAll,Queen,I Want It All,Both,,1989,,Rock,""Love, Deep, Party"",Medium,,,1475721"
+"Innuendo,Queen,Innuendo,Both,,1991,,Rock,""Love, Deep, Party"",Hard,,,726319"
+"ItsAHardLife,Queen,It's A Hard Life,Both,,1984,,Rock,""Love, Deep, Party"",Medium,,,726319"
+"KillerQueen,Queen,Killer Queen,Both,,1974,,Rock,""Love, Deep, Party"",Medium,,,915783"
+"NowImHere,Queen,Now I'm Here,Both,,1974,,Rock,""Love, Deep, Party"",Medium,,,6605779"
+"OneVision,Queen,One Vision,Both,,1986,,Rock,""Love, Deep, Party"",Medium,,,1236000"
+"PlayTheGame,Queen,Play The Game,Both,,1980,,Rock,""Love, Deep, Party"",Medium,,,6605779"
+"PrincesOfTheUniverse,Queen,Princes Of The Universe,Both,,1986,,Rock,""Love, Deep, Party"",Medium,,,1132644"
+"SaveMe,Queen,Save Me,Both,,1980,,Rock,""Love, Deep, Party"",Medium,,,1121182"
+"SomebodyToLove,Queen,Somebody To Love,Both,,1976,,Rock,""Love, Deep, Party"",Medium,,,917232"
+"TheInvisibleMan,Queen,The Invisible Man,Both,,1989,,Rock,""Love, Deep, Party"",Medium,,,726319"
+TheShowMustGoOn,Queen,The Show Must Go On,Men,English,1991,Timeless,Rock,Party,Easy,Coop,84,726319
+"TieYourMotherDown,Queen,Tie Your Mother Down,Both,,1976,,Rock,""Love, Deep, Party"",Medium,,,917233"
+"WeAreTheChampions,Queen,We Are The Champions,Both,,1977,,Rock,""Love, Deep, Party"",Medium,,,6605779"
+"WhoWantsToLiveForever,Queen,Who Wants To Live Forever,Both,,1986,,Rock,""Love, Deep, Party"",Medium,,,726319"
+"YoureMyBestFriend,Queen,You're My Best Friend,Both,,1975,,Rock,""Love, Deep, Party"",Medium,,,915786"
