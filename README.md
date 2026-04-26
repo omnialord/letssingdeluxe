@@ -12,10 +12,9 @@ The script will automatically convert all game files from previous versions to t
 
 ## Credits
 
-<ul>
-<li>ratnapatka for the [Ultrastar2singit](https://github.com/ratnapatka/ultrastar2singIt) repo, specially for his contributions on BK2 conversion and general script that served as a base for this one</li>
-<li>larsenv for the obscure [mo2mp4](https://github.com/RiiConnect24/mo2mp4) tool to convert wii video format into mp4</li>
-</ul>
+- ratnapatka for the [Ultrastar2singit](https://github.com/ratnapatka/ultrastar2singIt) repo, specially for his contributions on BK2 conversion and general script that served as a base for this one
+- larsenv for the obscure [mo2mp4](https://github.com/RiiConnect24/mo2mp4) tool to convert wii video format into mp4
+
 
 ## Instructions
 
@@ -23,7 +22,7 @@ Before starting the conversion process, you need the actual files from the games
 
 You will also need to have the 2025 or 2026 version of the game with the free Song Pack DLC installed (International or Regional versions, e.g. German Hits, French Hits, etc), this is what we will mod through LayeredFS so you have the extra songs in your main game.
 
-Besides the files in this project you will also need to have FFmpeg (I used gyan's release from https://www.gyan.dev/ffmpeg/builds/) in the same folder as the script and [RAD Video Tools](https://www.radgametools.com/bnkdown.htm) installed in your program files.
+Besides the files in this project you will also need to have FFmpeg (I used gyan's release from [here](https://www.gyan.dev/ffmpeg/builds/)) in the same folder as the script and [RAD Video Tools](https://www.radgametools.com/bnkdown.htm) installed in your program files.
 
 For base games, cover images are a little cumbersome to get, you will need to extract these with Asset Studio Mod (or similar) from the "resources.assets" file. Unfortunately there's no way to automate this, so instead, in case you don't have expected files in the folder, this will automatically run a Deezer search for alternate cover images.
 
@@ -65,24 +64,23 @@ LetsSingDeluxeMod/
 │   ├── 7Years.vxla
 │   └── ...
 └── vxla_duet / vxla_feat
-    ├── 2BeLoved.vxla
-    ├── 7Years.vxla
+    ├── 2BeLoved_DUET.vxla
+    ├── 7Years_feat.vxla
     └── ...
 ```
 
-Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1O7PlBW7WRpWVQ91WM2VTsidog5oB11HENDqgCjq29vY/copy), this is our song database, you will use this to define which songs you want to export, just click the checkbox for any songs you would like, then go to the main tab and click the "Export DB" button
-Also included an offline version of the csv in this repo if you prefer using excel or just want to run the full list
+Next, make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1O7PlBW7WRpWVQ91WM2VTsidog5oB11HENDqgCjq29vY/copy), this is our song database, you will use this to define which songs you want to export, just click the checkbox for any songs you would like, then go to the main tab and click the "Export DB" button. Alternatively, I also included an offline version of the csv in this repo if you prefer using excel or just want to run the full list.
 
-The list will cross check against the files you have in the folder, it will only attempt to convert a specific song if you have all needed files in the folders (video, audio, vxla), otherwise it will skip that song to avoid crashes. To reduce issues for duplicate songs, make sure to only select a single version and avoid selecting songs that are already present in the base game used to apply the mod.
+The list will cross check against the files you have in the folder, it will only attempt to convert a specific song if you have all required files in the folders (video, audio, vxla), otherwise it will skip that song to avoid crashes. To reduce issues with duplicate songs, make sure to only select a single version in the sheet and avoid selecting songs that are already present in the base game used to apply the mod.
 
 If you want to keep your original DLC songs, copy the songs_XX.json (found in DLCID\romfs) file from the dumped game installation to the project folder.
 
 Run with lsdeluxe.py in the same folder you have the files' folders, the ffmpeg build and the mo2mp4 folders. You should also have RAD Video Tools installed in your computer.
 
-When you run it will ask you for your supported game version, this is only used to define the folder ID for LayeredFS and the JSON song database. Optionally you can choose to skip the original music videos, so it creates the files based on cover images (which is a lot faster and lightweight)
+When you run, it will ask you for your supported game version, this is only used to define the folder ID for LayeredFS and the JSON song database name. Optionally you can choose to skip the original music videos, so it creates the files based on cover images (which is a lot faster and lightweight)
 
-Please be aware depending on the amount of songs, this will probably take a couple hours to finish, however you can stop anytime and resume from the last converted file by running the script again. The script will loop through all files you have in the folders and only convert the ones you have marked in the DB sheet. 
+Please be aware that depending on the amount of songs, this will probably take a couple hours to finish, however you can stop anytime and resume from the last converted file by running the script again. The script will loop through all files you have in the folders and only convert the ones you have marked in the DB sheet. 
 
 If you have .mo (Wii) video files, these are first converted to .mp4, then all mp4 are converted to bk2. VXLA files also go through some reformatting depending on the version. Remaining files are left untouched.
 
-At the end you should have all files ready in a folder to move to atmosphere Switch folder (e.g. sd:/atmosphere/contents)
+At the end you should have all files ready in a folder to move to the Atmosphere Switch folder (e.g. sd:/atmosphere/contents)
