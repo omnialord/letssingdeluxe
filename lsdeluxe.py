@@ -121,7 +121,7 @@ DIR_AUDIO = ROOT_DIR / "audio"
 DIR_AUDIO_PREVIEW = ROOT_DIR / "audio_preview"
 DIR_COVERS = ROOT_DIR / "covers"
 
-DIR_DECODER = ROOT_DIR / "Decoder"
+DIR_DECODER = ROOT_DIR / "MoDecoder"
 EXE_DECODER = DIR_DECODER / "MobiclipDecoder.exe"
 
 OUT_BASE = ROOT_DIR / "_DeluxeMod" / VERSION_ID
@@ -504,7 +504,7 @@ def generate_video_thumbnail(video_path, output_path):
 def append_to_json(processed_songs):
     json_filename = "{0}.json".format(JSON_NAME)
     json_source_path = ROOT_DIR / json_filename
-    json_output_path = OUT_BASE / json_filename
+    json_output_path = OUT_ROMFS / json_filename
     
     data = {"name": "deluxe", "songs": []}
     
