@@ -46,6 +46,7 @@ MENU_OPTIONS = {
 }
 
 NO_VIDEO = False
+FORCE_STATIC = False
 target_year = "2025"
 target_region = "FR"
 
@@ -73,17 +74,24 @@ if len(sys.argv) == 1:
 
     print("\nVideo processing mode:")
     print("1 - Use music videos (default, recommended)")
-    print("2 - Use static cover images (lightweight, faster)")
+    print("2 - Prioritize video, fallback to cover image (foolproof)")
+    print("3 - Use static cover images (lightweight, faster)")
     
     while True:
-        vid_choice = input("\nEnter choice (1-2): ").strip()
+        vid_choice = input("\nEnter choice (1-3): ").strip()
         if vid_choice == "1":
             NO_VIDEO = False
+            FORCE_STATIC = False
             break
         elif vid_choice == "2":
             NO_VIDEO = True
+            FORCE_STATIC = False
             break
-        print("[ERROR] Invalid choice. Please enter 1 or 2.")
+        elif vid_choice == "3":
+            NO_VIDEO = False
+            FORCE_STATIC = True
+            break
+        print("[ERROR] Invalid choice. Please enter 1, 2 or 3.")
         
 else:
     # CLI Argument Mode
@@ -91,14 +99,17 @@ else:
     if "--no-video" in args:
         NO_VIDEO = True
         args.remove("--no-video")
+    if "--force-static" in args:
+        FORCE_STATIC = True
+        args.remove("--force-static")
 
     if len(args) >= 2:
         target_year = args[0]
         target_region = args[1].upper()
     else:
         print("[WARNING] Incomplete arguments. Using default: 2025 FR")
-        print("[INFO] Usage: py lsdeluxe.py [YEAR] [REGION] [--no-video]")
-        print("[INFO] Example: py lsdeluxe.py 2026 INT --no-video")
+        print("[INFO] Usage: py lsdeluxe.py [YEAR] [REGION] [--no-video] [--force-static]")
+        print("[INFO] Example: py lsdeluxe.py 2026 INT --force-static")
 
 version_data = VERSION_MAP.get(target_year, {}).get(target_region)
 if not version_data:
@@ -159,6 +170,7 @@ def verify_tools():
         for m in missing:
             print("  - {0}".format(m))
         print("Make sure the 'ffmpeg' folder is in the root directory.")
+        
         sys.exit(1)
 
 # ==========================================
@@ -603,12 +615,12 @@ def main():
                 video_file = temp_path
                 break
                 
-        # If --no-video is enabled, tolerate missing video file during scan
-        if not ogg_file.exists() or not vxla_files or (not video_file and not NO_VIDEO):
+        # If --no-video or --force-static is enabled, tolerate missing video file during scan
+        if not ogg_file.exists() or not vxla_files or (not video_file and not NO_VIDEO and not FORCE_STATIC):
             missing = []
             if not ogg_file.exists(): missing.append("Audio")
             if not vxla_files: missing.append("VXLA")
-            if not video_file and not NO_VIDEO: missing.append("Video")
+            if not video_file and not NO_VIDEO and not FORCE_STATIC: missing.append("Video")
             missing_log.append("[{0}] -> Missing: {1}".format(song_id, ", ".join(missing)))
         else:
             song['ogg_file'] = ogg_file
@@ -672,7 +684,7 @@ def main():
                         tqdm.write("  > Downloading cover from Deezer...")
                         cover_success = download_deezer_cover(deezer_id, cover_out)
                         
-                    if not cover_success and video_file and video_file.suffix == '.mp4':
+                    if not cover_success and video_file and video_file.suffix == '.mp4' and not FORCE_STATIC:
                         tqdm.write("  > Deezer failed/missing, generating thumbnail from video...")
                         cover_success = generate_video_thumbnail(video_file, cover_out)
             else:
@@ -684,7 +696,7 @@ def main():
             final_video_path = OUT_VIDEOS / final_video_name
             
             if not final_video_path.exists():
-                if video_file:
+                if video_file and not FORCE_STATIC:
                     if video_file.suffix == '.bk2':
                         shutil.copy2(video_file, final_video_path)
                     else:
@@ -723,11 +735,11 @@ def main():
                             temp_fps_file.unlink()
                         if is_temp_mo and target_mp4.exists():
                             target_mp4.unlink()
-                elif NO_VIDEO:
+                elif NO_VIDEO or FORCE_STATIC:
                     if not cover_success:
                         raise Exception("Missing video and failed to obtain cover image for static video generation.")
                         
-                    tqdm.write("  > Missing video file. Generating static video from cover...")
+                    tqdm.write("  > Generating static video from cover...")
                     song_duration = get_duration(final_audio_path)
                     temp_static_mp4 = DIR_VIDEOS / "{0}_static.mp4".format(song_id)
                     
@@ -741,7 +753,7 @@ def main():
                     if temp_static_mp4.exists():
                         temp_static_mp4.unlink()
                 else:
-                    raise Exception("Unexpected Error: No video found and --no-video was not set.")
+                    raise Exception("Unexpected Error: No video found and static mode was not properly set.")
             else:
                 tqdm.write("  > Video already exists, skipping.")
 
